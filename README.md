@@ -62,6 +62,32 @@ Highlights total number of out-of-school children across all countries.
 2. Open it using [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop)
 3. Explore each visualization as attached to gain deeper insights.
 
+
+
+### PYTHON ANALYTICS TASKS SCREENSHOTS
+
+![python](python1.png)
+![python](python2.png)
+![python](python3.png)
+![python](python4.png)
+![python](python5.png)
+![python](python6.png)
+![python](python7.png)
+![python](python8.png)
+![python](python9.png)
+![python](python10.png)
+![python](python11.png)
+![python](python12.png)
+![python](python13.png)
+![python](python14.png)
+![python](python15.png)
+![python](python16.png)
+![python](python17.png)
+![python](python18.png)
+![python](python19.png)
+
+
+
 ---
 
 ##  Author
