@@ -22,25 +22,32 @@ This project explores the clustering of countries based on the number of out-of-
 
 ### 2. Summary
 ![Summarry](Summary.png)
+![OutofSchoolDashboard](OutofSchoolDashboard.png)
+
 
 ### 3. Cluster Map  
 Shows geographic distribution of countries grouped into three clusters.
 ![Cluster Map](ClusterMap.png)
 
-### 2. Pie Chart – Count by Cluster  
+### 4. Pie Chart – Count by Cluster  
 Displays how many countries belong to each cluster.
 ![Pie Chart](PieChart.png)
 
-### 3. Bar Chart – Sum of Out-of-School by Country  
+### 5. Bar Chart – Sum of Out-of-School by Country  
 Visualizes the total number of out-of-school children per country.
 ![BarChart](BarChart.png)
 
-### 4. Summary Card  
+### 6. Summary Card  
 Highlights total number of out-of-school children across all countries.
+![Cardt](Card.png)
+
+
+
+
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 - Nepal accounts for over 60% of the total out-of-school children in the dataset.  
 - Cluster 1 represents countries with very high out-of-school numbers.  
@@ -49,26 +56,20 @@ Highlights total number of out-of-school children across all countries.
 
 ---
 
-## ▶️ How to Open the Dashboard
+##  How to Open the Dashboard
 
 1. Download `dashboard.pbix`
 2. Open it using [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop)
-3. Explore each visualization to gain deeper insights.
+3. Explore each visualization as attached to gain deeper insights.
 
 ---
 
-## 📌 Requirements
-
-- Power BI Desktop (latest version)
-- CSV file already cleaned and ready for analysis
-
----
-
-## 🧠 Author
+##  Author
 
 Cedrick Rukundo  
-Adventist University of Central Africa  
-Course: INSY 8413 – Introduction to Big Data Analytics
+ID 27946
+Introduction to Big Data
+Adventist University of Central Africa (AUCA)
 
 ---
 
