@@ -58,7 +58,7 @@ Highlights total number of out-of-school children across all countries.
 
 ##  How to Open the Dashboard
 
-1. Download `dashboard.pbix`
+1. Download `Education BI.pbix`
 2. Open it using [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop)
 3. Explore each visualization as attached to gain deeper insights.
 
@@ -66,10 +66,10 @@ Highlights total number of out-of-school children across all countries.
 
 ##  Author
 
-Cedrick Rukundo  
-ID 27946
-Introduction to Big Data
-Adventist University of Central Africa (AUCA)
+## Cedrick Rukundo  
+## ID 27946
+## Introduction to Big Data
+## Adventist University of Central Africa (AUCA)
 
 ---
 
