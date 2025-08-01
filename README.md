@@ -61,6 +61,16 @@ Highlights total number of out-of-school children across all countries.
 1. Download `Education BI.pbix`
 2. Open it using [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop)
 3. Explore each visualization as attached to gain deeper insights.
+   ---
+   attached( Education BI.pbix, cleaned data(out of school clusters 2015.csv), out of school analysis.ipynb)
+
+
+
+
+
+
+
+---
 
 
 
@@ -92,10 +102,13 @@ Highlights total number of out-of-school children across all countries.
 
 ##  Author
 
-## Cedrick Rukundo  
-## ID 27946
-## Introduction to Big Data
-## Adventist University of Central Africa (AUCA)
+ Cedrick Rukundo 
+ ---
+ ID 27946
+ ---
+ Introduction to Big Data
+ ---
+ Adventist University of Central Africa (AUCA)
 
 ---
 
