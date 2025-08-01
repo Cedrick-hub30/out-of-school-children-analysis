@@ -29,9 +29,11 @@ Shows geographic distribution of countries grouped into three clusters.
 
 ### 2. Pie Chart – Count by Cluster  
 Displays how many countries belong to each cluster.
+![Pie Chart](PieChart.png)
 
 ### 3. Bar Chart – Sum of Out-of-School by Country  
 Visualizes the total number of out-of-school children per country.
+![BarChart](BarChart.png)
 
 ### 4. Summary Card  
 Highlights total number of out-of-school children across all countries.
